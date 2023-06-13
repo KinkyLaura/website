@@ -1,0 +1,18 @@
+baseURL = "https://www.kinkylaura.eu/"
+languageCode = "en-us"
+title = "Lauras Kinky Adventures"
+theme = "archie"
+copyright = "© Laura"
+paginate = 5
+
+[params]
+	mode="dark" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "Hi I'm Laura and I'm a submissive blogging about my imagination! [more about me](/about/)"
+
+
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 1
