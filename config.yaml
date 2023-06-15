@@ -1,0 +1,34 @@
+baseURL: https://kinkylaura.eu/
+languageCode: en-us
+title: Lauras Kinky Adventures
+theme: archie
+copyright: © Laura
+paginate: 3
+params:
+  mode: dark
+  useCDN: false
+  subtitle: |
+    Hi I'm Laura and I'm a submissive blogging about my imagination!  
+    You can read more [about me](/about/) and about [my rules](/rules/) here
+  social:
+    - name: Fediverse
+      icon: mail
+      url: https://girlcock.club/@laura
+    - name: GitHub
+      icon: github
+      url: https://github.com/kinkylaura
+      
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: All posts
+      url: /posts/
+      weight: 2
+    - name: Rules
+      url: /rules/
+      weight: 3
+    - name: About
+      url: /about/
+      weight: 4
