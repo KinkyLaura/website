@@ -14,4 +14,4 @@ If you are interested in the set of rules I have to follow, you can find them [h
 
 On this website I'm trying to write down my kinky ideas and be as bold as I can be with my fantasies!
 
-If you want to reach me you can do so via Mastodon: [@laura@girlcock.club](https://girlcock.club/@laura)
+If you want to reach me you can do so via Mastodon: [@lauralanics@kinky.business](https://kinky.business/@lauralanics)
