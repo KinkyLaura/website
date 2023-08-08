@@ -1,0 +1,4 @@
+Contact: mailto:security@kinkylaura.eu
+Expires: 2033-08-31T21:59:00.000Z
+Preferred-Languages: en
+Canonical: https://kinkylaura.eu/.well-known/security.txt
