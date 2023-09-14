@@ -3,7 +3,7 @@ title: "128 rules for the female slave"
 date: 2023-09-14
 description: "Some of these rules will hit your core. Many of them will make you feel as if you've come home. Some of them will be a challenge. Others will be down right 'no way, you're nuts'."
 tags: []
-author: "Johnathan Kay"
+author: Laura
 ---
 
 Copyright 1992 by Johnathan Kay. The current official site for this document can be found at http://kink-notes.blogspot.com/. Use at your own risk.
