@@ -9,7 +9,7 @@ author: Laura
 Hi! I'm ✨ Laura ✨
 
 I enjoy being kinky and being open about it!  
-I'm a rope bunny and a service sub, and I love getting ordered and pulled around, tied up, embarrassed and degraded (^‿^) I have a wonderful Domme who shall only be called Xir here, and I'm very glad to have them ♥️  
+I'm a rope bunny and a service sub, and I love getting ordered and pulled around, tied up, embarrassed and degraded (^‿^) I have a wonderful Domme who shall only be called Mastress here, and I'm very glad to have them ♥️  
 If you are interested in the set of rules I have to follow, you can find them [here](/rules/).
 
 My interests and limits can be found [at bdsm-limits.com](https://bdsm-limits.com/#YYYYMYYYNNNYYYYNNNNNNYYYNYYYYYYYYYYCCYCYYCYCCYYYCYCYYCYYYYYYCCMNNCCMYYYYMNNNYNYCYCYYYYNNNNNCCCNNNNCNYNNNNNNNNYCYNYYYCYYMCYYYMYYMYNYYCYMYMYYMNNMNNNNYYYYYMYYNNNYCYYYCNYNMYCYNCNNN)
