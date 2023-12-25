@@ -1,10 +1,10 @@
 /* Markdown */
 :root{
---maincolor: red;
---bordercl:#f94343;
+--maincolor: #c552ff;
+--bordercl:#c552ff;
 --callouctcolor:dodgerblue;
 --hovercolor:navy;
---darkMaincolor: #f94343;
+--darkMaincolor: #c552ff;
 }
 html {
   color: #232333;
@@ -330,4 +330,8 @@ table th{
 table td{
   padding: 6px 13px;
   border: 1px solid #dfe2e5;
+}
+
+strong {
+  color: var(--maincolor);
 }
