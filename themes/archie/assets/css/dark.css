@@ -73,14 +73,17 @@ a {
 }
 a:hover {
   background-color: var(--darkMaincolor);
-  color: black;
+  color: white;
 }
 
+/*
 .site-description a {
   color: #ddd;
 }
+*/
+
 .site-description a:hover {
-  color: black;
+  color: white;
 }
 
 .tags a {
@@ -88,7 +91,7 @@ a:hover {
 }
 .tags a:hover {
   background-color: var(--darkMaincolor);
-  color: black;
+  color: white;
 }
 
 .site-title a {
@@ -105,7 +108,7 @@ a:hover {
   background-color: #333;
 }
 .soc:hover {
-  color: black;
+  color: white;
 }
 .draft-label {
   color: var(--darkMaincolor);
