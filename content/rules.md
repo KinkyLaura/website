@@ -2,7 +2,7 @@
 title: "Lauras Rules"
 date: 2023-12-25
 description: "Lauras daily rules"
-tags: [lauras-rules, rules]
+tags: []
 author: Laura
 ---
 

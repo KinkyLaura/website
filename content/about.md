@@ -2,7 +2,7 @@
 title: "About Laura"
 date: 2023-06-13
 description: "Description about Laura"
-tags: [about-me, laura, contact]
+tags: []
 author: Laura
 ---
 
