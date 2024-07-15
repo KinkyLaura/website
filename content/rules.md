@@ -23,4 +23,8 @@ As I am living in a D/s relationship with my Mastress, we wrote down some rules 
 - Laura **is required** to eat breakfast until 10:00 on weekdays and until 11:00 on the weekend, and **is required** to eat a *healthy* snack at most five hours later.
 - Laura **is required** to answer every question asked by Mastress truthfully and may not lie to or be ashamed in front of her Mastress.
 - Laura may be bratty unless she’s called a fucktoy. Once she is called a fucktoy she **is required** to be absolutely obedient.
-- Laura **is required** to be on her knees, without underwear, in the [nadu position](https://www.urbandictionary.com/define.php?term=nadu) awaiting the coming home of Mastress. She may not look at Mastress until allowed to.
+- Laura is Mastress' pet, and has to follow these commands:
+  - Fuß: Lay down at Mastress' feet
+  - Dinner: Go down on Mastress
+  - Bauprinzessin
+- Laura must ask for permission to go to the toilet
